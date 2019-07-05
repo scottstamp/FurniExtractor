@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29021.104
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FurniExtractor", "FurniExtractor\FurniExtractor.csproj", "{3203C0A3-21AB-45FD-BF3C-044769815071}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flazzy", "Flazzy\Flazzy.csproj", "{EBF15399-3929-44EF-926F-C4E97DF6DC4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3203C0A3-21AB-45FD-BF3C-044769815071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3203C0A3-21AB-45FD-BF3C-044769815071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3203C0A3-21AB-45FD-BF3C-044769815071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3203C0A3-21AB-45FD-BF3C-044769815071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF15399-3929-44EF-926F-C4E97DF6DC4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF15399-3929-44EF-926F-C4E97DF6DC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF15399-3929-44EF-926F-C4E97DF6DC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF15399-3929-44EF-926F-C4E97DF6DC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F0E29AF-A2C3-4C7C-94E4-01AF417FD1E3}
+	EndGlobalSection
+EndGlobal
